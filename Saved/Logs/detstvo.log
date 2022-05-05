@@ -2409,3 +2409,1280 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.05-02.21.37:453][792]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
 [2022.05.05-02.21.37:453][792]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
 [2022.05.05-02.21.37:453][792]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-02.39.45:415][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-02.39.45:415][280]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-02.39.45:415][280]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-02.39.45:415][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-02.39.45:425][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-02.39.45:428][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-02.39.45:441][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-02.39.45:441][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-02.39.45:442][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-02.39.45:448][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.05.05-02.39.45:476][282]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.05-02.40.01:901][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-02.40.01:916][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.05-02.40.01:923][865]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_17B7E41264774D195B069AF9DE4C780EB.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-02.40.01:971][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-02.40.01:982][865]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData8D3C6A2A43143AF57DA68994D1C7EBA9.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-02.40.01:990][865]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-02.40.01:990][865]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-02.40.01:990][865]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-02.40.03:521][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.05-02.40.25:937][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-02.41.47:707][665]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{cc211eca-16da-498d-8fa2-3fe7b3008d78}.
+[2022.05.05-02.41.47:707][665]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-02.41.47:836][665]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-02.41.47:836][665]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-02.43.12:056][968]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9474d478-6bee-4bbc-aa6d-534e026a45c1}.
+[2022.05.05-02.43.12:056][968]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-02.43.12:171][968]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-02.43.12:171][968]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-02.43.16:419][981]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{41dde8c6-bbe5-4348-bc8e-c4f62e4aed42}.
+[2022.05.05-02.43.16:419][981]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-02.43.16:515][981]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-02.43.16:515][981]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-02.45.12:307][130]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Music/TestMusic.TestMusic
+[2022.05.05-02.45.19:343][539]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Music/NewSoundCue.NewSoundCue
+[2022.05.05-02.49.51:740][ 58]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9474d478-6bee-4bbc-aa6d-534e026a45c1}.
+[2022.05.05-02.49.51:740][ 58]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-02.49.51:882][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-02.49.51:883][ 58]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-02.50.02:471][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.05.05-02.50.02:475][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/scene_1' took 0.027
+[2022.05.05-02.50.02:475][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Music/NewSoundCue] ([1] browsable assets)...
+[2022.05.05-02.50.02:475][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Music/NewSoundCue]
+[2022.05.05-02.50.02:476][ 89]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/NewSoundCue_Auto4AD74C4BE4BC3EE8AE56B19B33A1C5A64.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Autosaves/Game/Sounds/Music/NewSoundCue_Auto4.uasset'
+[2022.05.05-02.50.02:477][ 89]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.05.05-02.51.20:771][451]LogSlate: Window 'Message' being destroyed
+[2022.05.05-02.51.20:777][451]Message dialog closed, result: YesAll, title: Message, text: Do you want to replace the existing asset?
+
+An asset already exists at the import location: /Game/Sounds/Music/28
+[2022.05.05-02.51.20:793][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.05.05-02.51.20:889][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.05.05-02.51.20:905][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.05-02.51.20:922][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.05-02.51.21:080][451]SourceControl: Error: Updated 0 paths from the index
+[2022.05.05-02.51.21:213][451]SourceControl: rm 'Content/Sounds/Music/28.uasset'
+[2022.05.05-02.51.21:463][451]SourceControl: Error: fatal: pathspec 'C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/28.uasset' did not match any files
+[2022.05.05-02.51.24:262][451]LogSlate: Window 'Message' being destroyed
+[2022.05.05-02.51.24:268][451]Message dialog closed, result: Ok, title: Message, text: Failed to revert package which was marked for delete.
+[2022.05.05-02.51.24:287][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.05.05-02.51.24:375][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.05.05-02.51.24:391][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.05-02.51.24:407][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.05-02.51.24:563][451]SourceControl: Error: Updated 0 paths from the index
+[2022.05.05-02.51.24:696][451]SourceControl: rm 'Content/Sounds/Music/Akai_Dream.uasset'
+[2022.05.05-02.51.24:946][451]SourceControl: Error: fatal: pathspec 'C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Akai_Dream.uasset' did not match any files
+[2022.05.05-02.51.26:057][451]LogSlate: Window 'Message' being destroyed
+[2022.05.05-02.51.26:062][451]Message dialog closed, result: Ok, title: Message, text: Failed to revert package which was marked for delete.
+[2022.05.05-02.51.26:145][451]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo 91.wav)
+[2022.05.05-02.51.26:327][451]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom 61.wav)
+[2022.05.05-02.51.26:395][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.05.05-02.51.26:482][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.05.05-02.51.26:496][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.05.05-02.51.26:513][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.05-02.51.26:629][451]SourceControl: Error: Updated 0 paths from the index
+[2022.05.05-02.51.26:763][451]SourceControl: rm 'Content/Sounds/Music/Noise_Syndrome.uasset'
+[2022.05.05-02.51.26:996][451]SourceControl: Error: fatal: pathspec 'C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Noise_Syndrome.uasset' did not match any files
+[2022.05.05-02.51.27:645][451]LogSlate: Window 'Message' being destroyed
+[2022.05.05-02.51.27:652][451]Message dialog closed, result: Ok, title: Message, text: Failed to revert package which was marked for delete.
+[2022.05.05-02.51.32:631][747]AssetReimport: New page: Outstanding source content changes 08:51:32
+[2022.05.05-02.51.32:693][747]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/28.wav)
+[2022.05.05-02.51.32:992][748]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Akai Dream.wav)
+[2022.05.05-02.51.33:442][749]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Noise Syndrome.wav)
+[2022.05.05-02.51.33:785][750]LogAudioEditor: Performing atomic reimport of [C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo 91.wav]
+[2022.05.05-02.51.33:823][750]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo 91.wav)
+[2022.05.05-02.51.35:018][750]LogAudioEditor: -- imported successfully
+[2022.05.05-02.51.36:154][751]LogAudioEditor: Performing atomic reimport of [C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom 61.wav]
+[2022.05.05-02.51.36:190][751]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom 61.wav)
+[2022.05.05-02.51.37:302][751]LogAudioEditor: -- imported successfully
+[2022.05.05-02.51.38:620][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/28" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/28.uasset" SILENT=true
+[2022.05.05-02.51.38:702][752]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/2855A6615B4E21BC79259763AA81F33DE1.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/28.uasset'
+[2022.05.05-02.51.39:951][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Akai_Dream" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Akai_Dream.uasset" SILENT=true
+[2022.05.05-02.51.40:283][752]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Akai_Dream92933FE64FCE3C690B3CC986F4D8BA5A.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Akai_Dream.uasset'
+[2022.05.05-02.51.43:408][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Noise_Syndrome" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Noise_Syndrome.uasset" SILENT=true
+[2022.05.05-02.51.43:650][752]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Noise_SyndromeD4E425DF4F9FEB6DD78D00824BB16E71.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Noise_Syndrome.uasset'
+[2022.05.05-02.51.47:494][753]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-02.51.47:494][753]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/28.28
+[2022.05.05-02.51.47:494][753]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/Noise_Syndrome.Noise_Syndrome
+[2022.05.05-02.51.47:494][753]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/Akai_Dream.Akai_Dream
+[2022.05.05-02.51.50:475][923]AssetReimport: Importing new asset /Game/Sounds/Music/28.
+[2022.05.05-02.51.50:475][923]AssetReimport: Importing new asset /Game/Sounds/Music/Akai_Dream.
+[2022.05.05-02.51.50:475][923]AssetReimport: Importing new asset /Game/Sounds/Music/Noise_Syndrome.
+[2022.05.05-02.51.50:475][923]AssetReimport: Reimported asset demo_91 from C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo 91.wav.
+[2022.05.05-02.51.50:475][923]AssetReimport: Reimported asset dom_61 from C:/Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom 61.wav.
+[2022.05.05-02.52.06:423][819]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Music/NewSoundCue.NewSoundCue was zero and has changed. Consider manually Re-saving the asset
+[2022.05.05-02.52.07:700][895]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{41dde8c6-bbe5-4348-bc8e-c4f62e4aed42}.
+[2022.05.05-02.52.07:712][895]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-02.52.07:833][895]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-02.52.07:833][895]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-02.52.20:803][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/NewSoundCue" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/NewSoundCue.uasset" SILENT=true
+[2022.05.05-02.52.20:805][646]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/NewSoundCue1AFF701344792C57E8440596CFA3AC5E.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/NewSoundCue.uasset'
+[2022.05.05-02.52.20:815][646]AssetCheck: New page: Asset Save: NewSoundCue
+[2022.05.05-02.52.20:815][646]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Music/NewSoundCue.NewSoundCue
+[2022.05.05-02.52.49:654][256]LogContentBrowser: Attempting asset rename: NewSoundCue -> low_drone
+[2022.05.05-02.52.50:085][256]LogMetaData: Removing '/Game/Sounds/Music/low_drone.low_drone:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Sounds/Music/NewSoundCue.PackageMetaData'
+[2022.05.05-02.52.50:104][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/low_drone" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/low_drone.uasset" SILENT=true
+[2022.05.05-02.52.50:105][256]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/low_drone89CF458A425205779C9D6F9491644BA8.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/low_drone.uasset'
+[2022.05.05-02.52.50:222][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/NewSoundCue" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/NewSoundCue.uasset" SILENT=true
+[2022.05.05-02.52.50:223][256]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/NewSoundCue008D30894C45D5446AB4D59EC56A12AB.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/NewSoundCue.uasset'
+[2022.05.05-02.52.50:405][256]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-02.52.50:405][256]LogContentValidation: Display: Validating ObjectRedirector /Game/Sounds/Music/NewSoundCue.NewSoundCue
+[2022.05.05-02.52.50:405][256]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Music/low_drone.low_drone
+[2022.05.05-02.53.08:568][271]BlueprintLog: New page: Compile ACT1
+[2022.05.05-02.53.08:632][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.05.05-02.53.09:084][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-02.53.09:121][284]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1E54BFAF14C844CF8C3A558A5A70F72B5.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-02.53.09:134][284]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-02.53.09:134][284]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-02.53.13:287][516]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-02.53.13:291][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-02.53.13:291][516]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 08:53:13)
+[2022.05.05-02.53.13:291][516]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-02.53.13:293][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001577s)
+[2022.05.05-02.53.13:294][516]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-02.53.13:294][516]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2022.05.05-02.53.13:294][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.002705s)
+[2022.05.05-02.53.13:313][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.05-02.53.13:313][516]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-02.53.13:313][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-02.53.13:313][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-02.53.13:314][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-02.53.13:314][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-02.53.13:314][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-02.53.13:314][516]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-02.53.13:317][516]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-02.53.13:317][516]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-02.53.13:323][516]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-02.53.13:323][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-02.53.13:323][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-02.53.13:323][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-02.53.13:323][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-02.53.13:323][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-02.53.13:323][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-02.53.13:324][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-02.53.13:324][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-02.53.13:324][516]LogInit: FAudioDevice initialized.
+[2022.05.05-02.53.13:324][516]LogAudio: Display: Audio Device (ID: 4) registered with world 'scene_1'.
+[2022.05.05-02.53.13:334][516]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-02.53.13:336][516]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-05.53.13
+[2022.05.05-02.53.13:336][516]LogWorld: Bringing up level for play took: 0.000451
+[2022.05.05-02.53.13:336][516]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.05.05-02.53.13:341][516]PIE: Server logged in
+[2022.05.05-02.53.13:341][516]PIE: Play in editor total start time 0,05 seconds.
+[2022.05.05-02.53.24:290][171]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 28...
+[2022.05.05-02.53.24:297][171]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Music/28.28 will be modified from 40 to 40.
+[2022.05.05-02.53.26:079][171]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25998524 while cooking SoundWave /Game/Sounds/Music/28.28.
+[2022.05.05-02.53.50:912][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-02.53.50:912][653]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-02.53.50:912][653]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-02.53.50:912][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-02.53.50:939][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-02.53.50:942][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-02.53.50:957][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-02.53.50:957][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-02.53.50:960][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-02.53.50:961][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-02.53.50:963][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.05-02.53.51:001][655]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.05.05-02.57.14:644][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-02.57.14:669][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.05.05-02.57.14:678][519]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_19D580FB54A7A863E0FFC5587EB3461DD.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-02.57.14:745][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-02.57.14:756][519]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData5DF700F044C32D74CA768D9E1D491812.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-02.57.14:779][519]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-02.57.14:779][519]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-02.57.14:779][519]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-02.57.33:739][602]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/ru//Engine/Rendering/PostProcessEffects/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2022.05.05-02.58.14:925][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-02.58.14:941][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.05.05-02.58.14:949][880]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1A2648E374E973B79C43EC8A499EB788E.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-02.58.15:027][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-02.58.15:038][880]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltDataEFC68BC44431E8E089000F8CC8686A08.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-02.58.15:061][880]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-02.58.15:061][880]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-02.58.15:061][880]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.00.14:668][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.00.14:686][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.05-03.00.14:694][330]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1FC605618433DBD3B6EF8A68044506096.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.00.14:771][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.00.14:783][330]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData460E2DC64A0490BF64AF7CA8B9C46CBF.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.00.14:806][330]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.00.14:806][330]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.00.14:806][330]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.00.15:587][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.00.15:601][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.05-03.00.15:608][363]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1F83088E541629B50248A7C9A8F60EA7B.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.00.15:687][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.00.15:698][363]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData96C0050B487E2F26D4C5259FBBC8C469.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.00.15:705][363]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.00.15:705][363]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.00.15:706][363]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.00.28:256][ 81]LogSlate: Window 'Open Project' being destroyed
+[2022.05.05-03.00.40:068][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.00.40:084][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.05-03.00.40:092][768]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1E73ED8C24CC4625C50154F80EEF69953.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.00.40:165][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.00.40:175][768]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData038070D344E7BF032E64A6A36BAE29DE.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.00.40:183][768]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.00.40:184][768]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.00.40:184][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.10.06:524][412]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.10.06:600][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.05.05-03.10.07:178][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.10.07:225][430]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1ACF54B654E815CC97BE9FC8BD165AFCC.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.10.07:240][430]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.10.07:240][430]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.12.14:876][549]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.12.14:952][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.05.05-03.12.16:239][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.12.16:293][601]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT17840D64F4D123A8DC99E668E1775993C.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.12.16:311][601]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.12.16:311][601]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.12.40:159][971]LogSlate: Window 'ACT1' being destroyed
+[2022.05.05-03.13.02:676][150]LogActorFactory: Actor Factory created Sphere
+[2022.05.05-03.13.04:736][270]LogActorFactory: Actor Factory created Sphere
+[2022.05.05-03.14.13:270][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.14.13:329][102]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT11948651546986CFEB20193B1418DFE3C.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.14.13:346][102]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.14.13:346][102]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.14.14:620][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.14.14:666][171]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1357B4C334F7837185761D1A1F1D03343.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.14.14:685][171]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.14.14:685][171]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.14.15:107][194]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.14.15:197][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.05-03.14.16:529][262]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.14.17:050][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2022.05.05-03.14.17:738][329]Cmd: DELETE
+[2022.05.05-03.14.17:738][329]Cmd: ACTOR DELETE
+[2022.05.05-03.14.17:759][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.05-03.14.17:785][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.05.05-03.14.17:786][329]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.05.05-03.14.24:600][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.14.24:618][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.05-03.14.24:626][699]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_16591446F45E37B8805C2E78984B31F0A.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.14.24:711][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.14.24:727][699]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltDataCD768B504A80D81FD87353A7C6269CDA.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.14.24:736][699]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.14.24:736][699]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.14.24:736][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.14.28:592][900]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.14.28:597][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.14.28:597][900]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:14:28)
+[2022.05.05-03.14.28:597][900]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.14.28:599][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2022.05.05-03.14.28:599][900]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.14.28:600][900]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2022.05.05-03.14.28:600][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003232s)
+[2022.05.05-03.14.28:620][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.05-03.14.28:621][900]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.14.28:621][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.14.28:621][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.14.28:621][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.14.28:621][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.14.28:621][900]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.14.28:625][900]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.14.28:625][900]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.14.28:633][900]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.14.28:633][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.14.28:633][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.14.28:633][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.14.28:634][900]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.14.28:634][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.14.28:634][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.14.28:634][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.14.28:635][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.14.28:635][900]LogInit: FAudioDevice initialized.
+[2022.05.05-03.14.28:635][900]LogAudio: Display: Audio Device (ID: 5) registered with world 'scene_1'.
+[2022.05.05-03.14.28:646][900]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.14.28:648][900]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.14.28
+[2022.05.05-03.14.28:648][900]LogWorld: Bringing up level for play took: 0.000436
+[2022.05.05-03.14.28:648][900]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.05.05-03.14.28:651][900]PIE: Server logged in
+[2022.05.05-03.14.28:652][900]PIE: Play in editor total start time 0,056 seconds.
+[2022.05.05-03.15.04:217][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.15.04:217][973]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.15.04:217][973]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.15.04:217][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.15.04:227][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.15.04:230][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.15.04:246][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.15.04:246][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.15.04:247][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.15.04:249][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.15.04:251][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.05-03.15.04:270][974]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.05.05-03.15.24:266][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.15.24:309][ 85]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1AF7751CB4637FC939D2988A96329E8E7.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.15.24:325][ 85]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.15.24:325][ 85]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.15.25:204][134]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.15.25:279][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.05-03.15.28:369][301]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.15.28:374][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.15.28:374][301]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:15:28)
+[2022.05.05-03.15.28:374][301]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.15.28:376][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002184s)
+[2022.05.05-03.15.28:377][301]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.15.28:377][301]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2022.05.05-03.15.28:377][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003464s)
+[2022.05.05-03.15.28:399][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.05.05-03.15.28:400][301]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.15.28:401][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.15.28:401][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.15.28:401][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.15.28:401][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.15.28:401][301]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.15.28:405][301]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.15.28:405][301]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.15.28:412][301]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.15.28:412][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.15.28:412][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.15.28:412][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.15.28:412][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.15.28:412][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.15.28:412][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.15.28:413][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.15.28:413][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.15.28:413][301]LogInit: FAudioDevice initialized.
+[2022.05.05-03.15.28:413][301]LogAudio: Display: Audio Device (ID: 6) registered with world 'scene_1'.
+[2022.05.05-03.15.28:421][301]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.15.28:422][301]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.15.28
+[2022.05.05-03.15.28:423][301]LogWorld: Bringing up level for play took: 0.000464
+[2022.05.05-03.15.28:423][301]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.05.05-03.15.28:425][301]PIE: Server logged in
+[2022.05.05-03.15.28:426][301]PIE: Play in editor total start time 0,052 seconds.
+[2022.05.05-03.16.02:267][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.16.02:267][253]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.16.02:267][253]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.16.02:267][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.16.02:279][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.16.02:282][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.16.02:302][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.16.02:302][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.16.02:303][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.16.02:305][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.16.02:308][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.05-03.16.02:335][254]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.05.05-03.16.44:834][677]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.16.45:880][737]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.16.46:476][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.16.51:266][ 32]LogEditorViewport: Clicking on Actor (LMB): 1alesha_C (1alesha)
+[2022.05.05-03.16.55:885][301]LogEditorViewport: Clicking on Actor (LMB): 1alesha_C (1alesha)
+[2022.05.05-03.16.56:810][355]LogEditorViewport: Clicking on Actor (LMB): 1alesha_C (1alesha)
+[2022.05.05-03.18.14:112][592]LogSlate: Window 'Toolbar' being destroyed
+[2022.05.05-03.18.26:818][258]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.18.33:255][615]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.18.39:339][950]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.18.39:344][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.18.39:344][950]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:18:39)
+[2022.05.05-03.18.39:344][950]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.18.39:347][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003864s)
+[2022.05.05-03.18.39:348][950]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.18.39:349][950]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2022.05.05-03.18.39:349][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.005233s)
+[2022.05.05-03.18.39:411][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.05.05-03.18.39:417][950]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.18.39:418][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.18.39:418][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.18.39:418][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.18.39:418][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.18.39:418][950]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.18.39:424][950]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.18.39:424][950]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.18.39:434][950]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.18.39:435][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.18.39:435][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.18.39:435][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.18.39:435][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.18.39:436][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.18.39:436][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.18.39:437][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.18.39:437][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.18.39:437][950]LogInit: FAudioDevice initialized.
+[2022.05.05-03.18.39:437][950]LogAudio: Display: Audio Device (ID: 7) registered with world 'scene_1'.
+[2022.05.05-03.18.39:443][950]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.18.39:445][950]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.18.39
+[2022.05.05-03.18.39:445][950]LogWorld: Bringing up level for play took: 0.000831
+[2022.05.05-03.18.39:445][950]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.05.05-03.18.39:449][950]PIE: Server logged in
+[2022.05.05-03.18.39:450][950]PIE: Play in editor total start time 0,107 seconds.
+[2022.05.05-03.18.41:621][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.18.41:621][ 75]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.18.41:621][ 75]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.18.41:622][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.18.41:646][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.18.41:655][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.18.41:674][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.18.41:674][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.18.41:675][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.18.41:677][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.18.41:680][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.05.05-03.18.41:704][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.05.05-03.18.48:314][415]LogEditorViewport: Clicking on Actor (LMB): 1alesha_C (1alesha)
+[2022.05.05-03.19.11:861][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.19.11:918][771]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT129917DFC46D7A541F515FC93DE838A05.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.19.11:937][771]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.19.11:937][771]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.19.12:198][785]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.19.12:272][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.05.05-03.19.14:571][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.05-03.19.15:314][945]LogEditorViewport: Clicking on Actor (LMB): 1alesha_C (1alesha)
+[2022.05.05-03.19.16:591][ 17]Cmd: DELETE
+[2022.05.05-03.19.16:591][ 17]Cmd: ACTOR DELETE
+[2022.05.05-03.19.16:593][ 17]LogEditorActor: Deleted Actor: 1alesha_C
+[2022.05.05-03.19.16:622][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.05-03.19.16:624][ 17]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.05.05-03.19.17:775][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.19.17:780][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.19.17:780][ 80]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:19:17)
+[2022.05.05-03.19.17:780][ 80]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.19.17:782][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002323s)
+[2022.05.05-03.19.17:783][ 80]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.19.17:783][ 80]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2022.05.05-03.19.17:783][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003397s)
+[2022.05.05-03.19.17:811][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.05-03.19.17:811][ 80]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.19.17:811][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.19.17:811][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.19.17:812][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.19.17:812][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.19.17:812][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.19.17:812][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.19.17:817][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.19.17:817][ 80]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.19.17:826][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.19.17:828][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.19.17:828][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.19.17:828][ 80]LogInit: FAudioDevice initialized.
+[2022.05.05-03.19.17:828][ 80]LogAudio: Display: Audio Device (ID: 8) registered with world 'scene_1'.
+[2022.05.05-03.19.17:837][ 80]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.19.17:839][ 80]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.19.17
+[2022.05.05-03.19.17:839][ 80]LogWorld: Bringing up level for play took: 0.000848
+[2022.05.05-03.19.17:839][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.05.05-03.19.17:844][ 80]PIE: Server logged in
+[2022.05.05-03.19.17:844][ 80]PIE: Play in editor total start time 0,065 seconds.
+[2022.05.05-03.19.28:927][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.19.28:927][736]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.19.28:927][736]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.19.28:927][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.19.28:950][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.19.28:954][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.19.28:973][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.19.28:974][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.19.28:975][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.19.28:982][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.05.05-03.19.29:000][737]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.05.05-03.19.43:242][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.19.43:294][539]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT19E38C344476FC2013F8753A2FE263C49.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.19.43:317][539]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.19.43:317][539]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.19.43:875][571]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.19.43:949][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.05-03.19.44:624][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.19.44:670][598]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1A2884841450E1294945BC79F1982E54F.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.19.44:687][598]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.19.44:687][598]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.19.45:824][661]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.19.45:829][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.19.45:829][661]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:19:45)
+[2022.05.05-03.19.45:829][661]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.19.45:832][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2022.05.05-03.19.45:832][661]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.19.45:833][661]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2022.05.05-03.19.45:833][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003518s)
+[2022.05.05-03.19.45:856][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.05-03.19.45:856][661]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.05-03.19.45:856][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.19.45:856][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.19.45:857][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.19.45:857][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.19.45:857][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.19.45:857][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.19.45:857][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.19.45:857][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.19.45:857][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.19.45:857][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.19.45:857][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.19.45:857][661]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.19.45:861][661]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.19.45:861][661]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.19.45:869][661]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.19.45:869][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.19.45:869][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.19.45:869][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.19.45:870][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.19.45:870][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.19.45:870][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.19.45:870][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.19.45:870][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.19.45:870][661]LogInit: FAudioDevice initialized.
+[2022.05.05-03.19.45:870][661]LogAudio: Display: Audio Device (ID: 9) registered with world 'scene_1'.
+[2022.05.05-03.19.45:877][661]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.19.45:879][661]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.19.45
+[2022.05.05-03.19.45:879][661]LogWorld: Bringing up level for play took: 0.000498
+[2022.05.05-03.19.45:879][661]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.05.05-03.19.45:882][661]PIE: Server logged in
+[2022.05.05-03.19.45:883][661]PIE: Play in editor total start time 0,055 seconds.
+[2022.05.05-03.19.53:206][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.19.53:207][ 98]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.19.53:207][ 98]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.19.53:207][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.19.53:215][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.19.53:218][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.19.53:240][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.19.53:240][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.19.53:242][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.19.53:244][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.19.53:247][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.05-03.19.53:285][100]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.05.05-03.20.07:941][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.20.07:989][950]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT17F83C5CF4FA31CCC8FB28C806600B1AF.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.20.08:004][950]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.20.08:004][950]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.20.08:340][969]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.20.08:410][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.05-03.20.09:659][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.20.09:664][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.20.09:664][ 33]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:20:09)
+[2022.05.05-03.20.09:664][ 33]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.20.09:667][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003313s)
+[2022.05.05-03.20.09:668][ 33]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.20.09:668][ 33]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2022.05.05-03.20.09:668][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.004797s)
+[2022.05.05-03.20.09:713][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2022.05.05-03.20.09:713][ 33]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.20.09:713][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.20.09:713][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.20.09:714][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.20.09:714][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.20.09:714][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.20.09:714][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.20.09:718][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.20.09:718][ 33]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.20.09:727][ 33]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.20.09:727][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.20.09:727][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.20.09:727][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.20.09:728][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.20.09:728][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.20.09:728][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.20.09:729][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.20.09:729][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.20.09:729][ 33]LogInit: FAudioDevice initialized.
+[2022.05.05-03.20.09:729][ 33]LogAudio: Display: Audio Device (ID: 10) registered with world 'scene_1'.
+[2022.05.05-03.20.09:741][ 33]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.20.09:743][ 33]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.20.09
+[2022.05.05-03.20.09:743][ 33]LogWorld: Bringing up level for play took: 0.000547
+[2022.05.05-03.20.09:743][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.05.05-03.20.09:746][ 33]PIE: Server logged in
+[2022.05.05-03.20.09:747][ 33]PIE: Play in editor total start time 0,084 seconds.
+[2022.05.05-03.20.18:077][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.20.18:077][513]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.20.18:077][513]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.20.18:078][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.20.18:087][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.20.18:090][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.20.18:110][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.20.18:110][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.20.18:111][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.20.18:112][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.20.18:116][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.05.05-03.20.18:150][515]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.05.05-03.20.32:106][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.20.32:153][320]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1282296B04AF7856C678CBCA5C252B2BC.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.20.32:168][320]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.20.32:168][320]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.20.32:507][339]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.20.32:576][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.05.05-03.20.34:055][416]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.20.34:060][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.20.34:061][416]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:20:34)
+[2022.05.05-03.20.34:061][416]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.20.34:063][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002312s)
+[2022.05.05-03.20.34:064][416]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.20.34:064][416]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2022.05.05-03.20.34:064][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003420s)
+[2022.05.05-03.20.34:087][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.05.05-03.20.34:087][416]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.20.34:087][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.20.34:087][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.20.34:088][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.20.34:088][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.20.34:088][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.20.34:088][416]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.20.34:092][416]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.20.34:092][416]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.20.34:100][416]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.20.34:100][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.20.34:100][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.20.34:100][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.20.34:101][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.20.34:101][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.20.34:101][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.20.34:102][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.20.34:102][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.20.34:102][416]LogInit: FAudioDevice initialized.
+[2022.05.05-03.20.34:102][416]LogAudio: Display: Audio Device (ID: 11) registered with world 'scene_1'.
+[2022.05.05-03.20.34:110][416]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.20.34:112][416]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.20.34
+[2022.05.05-03.20.34:112][416]LogWorld: Bringing up level for play took: 0.000512
+[2022.05.05-03.20.34:112][416]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.05.05-03.20.34:115][416]PIE: Server logged in
+[2022.05.05-03.20.34:116][416]PIE: Play in editor total start time 0,056 seconds.
+[2022.05.05-03.20.39:497][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.20.39:497][723]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.20.39:497][723]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.20.39:497][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.20.39:505][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.20.39:508][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.20.39:529][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.20.39:529][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.20.39:530][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.20.39:532][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.20.39:535][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.05-03.20.39:587][726]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.05.05-03.20.45:739][ 72]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.20.45:812][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.05.05-03.20.46:306][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.20.46:355][ 88]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT11520AE514F95F408F05AECA1FF5FB683.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.20.46:373][ 88]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.20.46:373][ 88]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.20.47:872][171]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.20.47:876][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.20.47:876][171]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:20:47)
+[2022.05.05-03.20.47:877][171]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.20.47:879][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002301s)
+[2022.05.05-03.20.47:880][171]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.20.47:880][171]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.05.05-03.20.47:880][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003422s)
+[2022.05.05-03.20.47:903][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.05.05-03.20.47:904][171]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.20.47:904][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.20.47:904][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.20.47:905][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.20.47:905][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.20.47:905][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.20.47:905][171]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.20.47:908][171]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.20.47:908][171]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.20.47:915][171]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.20.47:915][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.20.47:916][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.20.47:916][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.20.47:916][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.20.47:916][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.20.47:916][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.20.47:917][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.20.47:917][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.20.47:917][171]LogInit: FAudioDevice initialized.
+[2022.05.05-03.20.47:917][171]LogAudio: Display: Audio Device (ID: 12) registered with world 'scene_1'.
+[2022.05.05-03.20.47:925][171]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.20.47:927][171]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.20.47
+[2022.05.05-03.20.47:927][171]LogWorld: Bringing up level for play took: 0.000642
+[2022.05.05-03.20.47:927][171]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.05.05-03.20.47:930][171]PIE: Server logged in
+[2022.05.05-03.20.47:931][171]PIE: Play in editor total start time 0,055 seconds.
+[2022.05.05-03.20.53:788][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.20.53:788][516]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.20.53:788][516]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.20.53:788][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.20.53:798][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.20.53:802][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.20.53:830][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.20.53:830][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.20.53:832][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.20.53:835][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.20.53:839][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.05.05-03.20.53:863][517]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.05.05-03.22.09:519][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.22.09:568][824]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1B5B8D2C34960E59689423B95B62E8E02.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.22.09:587][824]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.22.09:587][824]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.22.10:766][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.22.10:820][884]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT12192E0DE453DC3050B5137AABA78326E.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.22.10:835][884]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.22.10:835][884]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.22.11:137][901]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.22.11:211][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.05.05-03.22.12:272][948]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.22.12:278][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.22.12:278][948]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:22:12)
+[2022.05.05-03.22.12:278][948]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.22.12:280][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002554s)
+[2022.05.05-03.22.12:281][948]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.22.12:282][948]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2022.05.05-03.22.12:282][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003898s)
+[2022.05.05-03.22.12:304][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.05-03.22.12:304][948]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.22.12:304][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.22.12:304][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.22.12:305][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.22.12:305][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.22.12:305][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.22.12:305][948]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.22.12:310][948]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.22.12:310][948]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.22.12:318][948]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.22.12:318][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.22.12:318][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.22.12:318][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.22.12:318][948]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.22.12:318][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.22.12:318][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.22.12:320][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.22.12:320][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.22.12:320][948]LogInit: FAudioDevice initialized.
+[2022.05.05-03.22.12:320][948]LogAudio: Display: Audio Device (ID: 13) registered with world 'scene_1'.
+[2022.05.05-03.22.12:327][948]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.22.12:329][948]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.22.12
+[2022.05.05-03.22.12:329][948]LogWorld: Bringing up level for play took: 0.000634
+[2022.05.05-03.22.12:329][948]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.05.05-03.22.12:333][948]PIE: Server logged in
+[2022.05.05-03.22.12:334][948]PIE: Play in editor total start time 0,058 seconds.
+[2022.05.05-03.22.16:908][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.22.16:908][217]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.22.16:908][217]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.22.16:909][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.22.16:922][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.22.16:925][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.22.16:946][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.22.16:946][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.22.16:947][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.22.16:950][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.22.16:953][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.05.05-03.22.16:970][218]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.05.05-03.22.17:703][256]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.22.17:709][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.22.17:709][256]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:22:17)
+[2022.05.05-03.22.17:709][256]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.22.17:711][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002263s)
+[2022.05.05-03.22.17:712][256]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.22.17:712][256]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2022.05.05-03.22.17:712][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003507s)
+[2022.05.05-03.22.17:733][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.05.05-03.22.17:734][256]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.22.17:734][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.22.17:734][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.22.17:735][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.22.17:735][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.22.17:735][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.22.17:735][256]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.22.17:739][256]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.22.17:739][256]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.22.17:746][256]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.22.17:746][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.22.17:746][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.22.17:746][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.22.17:746][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.22.17:746][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.22.17:746][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.22.17:748][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.22.17:748][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.22.17:748][256]LogInit: FAudioDevice initialized.
+[2022.05.05-03.22.17:748][256]LogAudio: Display: Audio Device (ID: 14) registered with world 'scene_1'.
+[2022.05.05-03.22.17:760][256]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.22.17:761][256]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.22.17
+[2022.05.05-03.22.17:761][256]LogWorld: Bringing up level for play took: 0.000509
+[2022.05.05-03.22.17:761][256]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.05.05-03.22.17:766][256]PIE: Server logged in
+[2022.05.05-03.22.17:766][256]PIE: Play in editor total start time 0,058 seconds.
+[2022.05.05-03.22.24:537][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.22.24:537][651]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.22.24:537][651]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.22.24:537][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.22.24:548][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.22.24:551][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.22.24:572][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.22.24:572][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.22.24:573][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.22.24:580][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.05.05-03.22.24:613][653]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.05.05-03.22.34:950][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.22.34:996][255]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1A12646974E3E2995BC94599E71BFBA9D.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.22.35:012][255]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.22.35:012][255]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.23.14:602][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.23.14:654][565]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1152531F44DA80D69F7211AB6AA1C7813.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.23.14:671][565]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.23.14:671][565]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.23.15:816][632]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.23.15:899][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.05.05-03.23.18:551][772]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.23.18:556][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.23.18:556][772]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:23:18)
+[2022.05.05-03.23.18:556][772]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.23.18:559][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002482s)
+[2022.05.05-03.23.18:560][772]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.23.18:560][772]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2022.05.05-03.23.18:560][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003696s)
+[2022.05.05-03.23.18:584][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.05.05-03.23.18:584][772]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.05.05-03.23.18:584][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.23.18:584][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.23.18:585][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.23.18:585][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.23.18:585][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.23.18:585][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.23.18:585][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.23.18:585][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.23.18:585][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.23.18:585][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.23.18:585][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.23.18:585][772]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.23.18:589][772]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.23.18:589][772]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.23.18:596][772]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.23.18:597][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.23.18:597][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.23.18:597][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.23.18:597][772]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.23.18:597][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.23.18:597][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.23.18:599][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.23.18:599][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.23.18:599][772]LogInit: FAudioDevice initialized.
+[2022.05.05-03.23.18:599][772]LogAudio: Display: Audio Device (ID: 15) registered with world 'scene_1'.
+[2022.05.05-03.23.18:607][772]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.23.18:609][772]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.23.18
+[2022.05.05-03.23.18:609][772]LogWorld: Bringing up level for play took: 0.000559
+[2022.05.05-03.23.18:609][772]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.05.05-03.23.18:613][772]PIE: Server logged in
+[2022.05.05-03.23.18:614][772]PIE: Play in editor total start time 0,059 seconds.
+[2022.05.05-03.24.19:307][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.24.19:307][296]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.24.19:307][296]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.24.19:307][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.24.19:318][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.24.19:321][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.24.19:345][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.24.19:345][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.24.19:347][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.24.19:349][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.24.19:352][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.05-03.24.19:390][298]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.05.05-03.27.47:565][622]LogSlate: Took 0.008671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.05-03.28.52:338][203]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.05-03.28.52:366][203]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.05-03.31.01:224][338]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.31.01:252][338]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.05-03.31.01:307][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.05.05-03.31.01:462][338]LogSlate: Took 0.006622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.05-03.31.09:165][780]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.31.09:190][780]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.05-03.31.09:232][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.05.05-03.31.28:513][897]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.31.28:598][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.05.05-03.33.02:342][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.33.02:402][554]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1965CB5B14C74C5F0D66CE494572806CF.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.33.02:419][554]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.33.02:420][554]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.33.03:762][630]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.33.03:835][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.05-03.33.06:010][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.33.06:062][746]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1FFF6BDA2452CE43BEBDFE48BB7D9D385.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.33.06:081][746]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.33.06:081][746]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.34.48:555][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.34.48:606][801]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT161E6F0E8444FCC8B83C5659C1A1B40FB.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.34.48:622][801]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.34.48:623][801]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.34.48:908][817]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.34.48:988][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.05.05-03.34.51:672][963]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.34.51:678][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.34.51:678][963]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:34:51)
+[2022.05.05-03.34.51:678][963]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.34.51:681][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002667s)
+[2022.05.05-03.34.51:682][963]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.34.51:682][963]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2022.05.05-03.34.51:682][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.004058s)
+[2022.05.05-03.34.51:707][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.05.05-03.34.51:708][963]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.34.51:708][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.34.51:708][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.34.51:709][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.34.51:709][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.34.51:709][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.34.51:709][963]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.34.51:714][963]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.34.51:714][963]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.34.51:725][963]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.34.51:726][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.34.51:726][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.34.51:726][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.34.51:727][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.34.51:727][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.34.51:727][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.34.51:728][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.34.51:728][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.34.51:728][963]LogInit: FAudioDevice initialized.
+[2022.05.05-03.34.51:729][963]LogAudio: Display: Audio Device (ID: 16) registered with world 'scene_1'.
+[2022.05.05-03.34.51:738][963]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.34.51:740][963]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.34.51
+[2022.05.05-03.34.51:740][963]LogWorld: Bringing up level for play took: 0.000611
+[2022.05.05-03.34.51:740][963]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.05.05-03.34.51:744][963]PIE: Server logged in
+[2022.05.05-03.34.51:745][963]PIE: Play in editor total start time 0,068 seconds.
+[2022.05.05-03.35.34:758][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.35.34:758][518]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.35.34:758][518]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.35.34:760][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.35.34:766][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.35.34:770][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.35.34:794][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.35.34:794][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.35.34:796][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.35.34:799][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.35.34:803][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.05-03.35.34:825][519]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.05.05-03.35.54:367][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.35.54:421][518]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1EC1F1ABE43F2A1189E47F6B99E152452.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.35.54:438][518]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.35.54:438][518]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.35.54:696][531]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.35.54:721][531]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.05-03.35.54:767][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.05.05-03.36.03:802][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.36.03:857][993]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT178A991D4421C3955EE0A899AAA3DEAB2.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.36.03:874][993]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.36.03:874][993]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.36.04:943][ 54]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.36.05:015][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.05.05-03.36.07:242][172]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.36.07:246][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.36.07:246][172]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:36:07)
+[2022.05.05-03.36.07:246][172]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.36.07:249][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002349s)
+[2022.05.05-03.36.07:250][172]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.36.07:250][172]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2022.05.05-03.36.07:250][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003758s)
+[2022.05.05-03.36.07:273][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.05.05-03.36.07:273][172]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.36.07:273][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.36.07:273][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.36.07:274][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.36.07:274][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.36.07:274][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.36.07:274][172]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.36.07:278][172]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.36.07:278][172]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.36.07:285][172]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.36.07:285][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.36.07:285][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.36.07:286][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.36.07:286][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.36.07:286][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.36.07:286][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.36.07:287][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.36.07:287][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.36.07:287][172]LogInit: FAudioDevice initialized.
+[2022.05.05-03.36.07:287][172]LogAudio: Display: Audio Device (ID: 17) registered with world 'scene_1'.
+[2022.05.05-03.36.07:300][172]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.36.07:302][172]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.36.07
+[2022.05.05-03.36.07:302][172]LogWorld: Bringing up level for play took: 0.000482
+[2022.05.05-03.36.07:302][172]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.05.05-03.36.07:306][172]PIE: Server logged in
+[2022.05.05-03.36.07:307][172]PIE: Play in editor total start time 0,061 seconds.
+[2022.05.05-03.36.25:357][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.36.25:357][244]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.36.25:357][244]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.36.25:357][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.36.25:367][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.36.25:371][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.36.25:393][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.36.25:393][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.36.25:394][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.36.25:396][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.36.25:402][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.05.05-03.36.25:423][245]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.05.05-03.36.32:188][641]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.36.32:193][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.36.32:193][641]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:36:32)
+[2022.05.05-03.36.32:194][641]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.36.32:196][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002566s)
+[2022.05.05-03.36.32:197][641]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.36.32:197][641]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2022.05.05-03.36.32:197][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003815s)
+[2022.05.05-03.36.32:217][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.05-03.36.32:218][641]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.36.32:218][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.36.32:218][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.36.32:219][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.36.32:219][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.36.32:219][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.36.32:219][641]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.36.32:223][641]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.36.32:223][641]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.36.32:230][641]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.36.32:231][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.36.32:231][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.36.32:231][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.36.32:231][641]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.36.32:231][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.36.32:231][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.36.32:232][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.36.32:232][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.36.32:232][641]LogInit: FAudioDevice initialized.
+[2022.05.05-03.36.32:232][641]LogAudio: Display: Audio Device (ID: 18) registered with world 'scene_1'.
+[2022.05.05-03.36.32:243][641]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.36.32:244][641]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.36.32
+[2022.05.05-03.36.32:245][641]LogWorld: Bringing up level for play took: 0.000524
+[2022.05.05-03.36.32:245][641]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.05.05-03.36.32:249][641]PIE: Server logged in
+[2022.05.05-03.36.32:249][641]PIE: Play in editor total start time 0,056 seconds.
+[2022.05.05-03.36.49:657][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.36.49:657][646]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.36.49:658][646]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.36.49:658][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.36.49:669][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.36.49:673][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.36.49:699][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.36.49:700][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.36.49:701][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.36.49:708][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.05-03.36.49:735][647]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.05.05-03.37.00:700][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.37.00:760][238]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT15A653EEB41E628E3B71B0C9732445660.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.37.00:776][238]AssetCheck: New page: Asset Save: ACT1
+[2022.05.05-03.37.00:776][238]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.37.00:962][248]BlueprintLog: New page: Compile ACT1
+[2022.05.05-03.37.01:039][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.05.05-03.37.03:043][348]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-03.37.03:048][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-03.37.03:048][348]PIE: New page: PIE session: scene_1 (5 мая 2022 г., 09:37:03)
+[2022.05.05-03.37.03:048][348]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.37.03:051][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002287s)
+[2022.05.05-03.37.03:052][348]LogAIModule: Creating AISystem for world scene_1
+[2022.05.05-03.37.03:052][348]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2022.05.05-03.37.03:052][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/scene_1.scene_1 to /Game/Scenes/UEDPIE_0_scene_1.scene_1 (0.003382s)
+[2022.05.05-03.37.03:102][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.05-03.37.03:103][348]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-03.37.03:103][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-03.37.03:103][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-03.37.03:103][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-03.37.03:104][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-03.37.03:104][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-03.37.03:104][348]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-03.37.03:108][348]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-03.37.03:108][348]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-03.37.03:116][348]LogAudioMixer: Display: Using Audio Device Наушники (MDR-ZX330BT)
+[2022.05.05-03.37.03:116][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-03.37.03:116][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-03.37.03:116][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-03.37.03:116][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-03.37.03:116][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-03.37.03:116][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-03.37.03:118][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-03.37.03:118][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-03.37.03:118][348]LogInit: FAudioDevice initialized.
+[2022.05.05-03.37.03:118][348]LogAudio: Display: Audio Device (ID: 19) registered with world 'scene_1'.
+[2022.05.05-03.37.03:130][348]LogLoad: Game class is 'ACT1_C'
+[2022.05.05-03.37.03:132][348]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_scene_1.scene_1 up for play (max tick rate 60) at 2022.05.05-06.37.03
+[2022.05.05-03.37.03:132][348]LogWorld: Bringing up level for play took: 0.000503
+[2022.05.05-03.37.03:132][348]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.05.05-03.37.03:135][348]PIE: Server logged in
+[2022.05.05-03.37.03:136][348]PIE: Play in editor total start time 0,089 seconds.
+[2022.05.05-03.37.44:917][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.37.44:917][844]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_scene_1
+[2022.05.05-03.37.44:918][844]LogWorld: UWorld::CleanupWorld for scene_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.37.44:918][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.37.44:928][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-03.37.44:932][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.37.44:955][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-03.37.44:955][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.37.44:957][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-03.37.44:959][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-03.37.44:962][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.05-03.37.44:985][845]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.05.05-03.37.52:827][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.37.52:853][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.05.05-03.37.52:865][288]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_138231504465D55C23AEC3B82C3D96892.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.37.52:963][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.37.52:981][288]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData0CDF3DF04B76DE8AA89E01BEA720ECED.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.37.52:993][288]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.37.52:993][288]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.37.52:993][288]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.37.54:669][382]LogSlate: Window 'ACT1' being destroyed
+[2022.05.05-03.37.54:689][382]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-03.37.54:689][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-03.37.56:827][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.37.56:850][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.05-03.37.56:858][489]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1A91F6CFB4C174EE13D2E71B15A206D50.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.37.56:929][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.37.56:945][489]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData86BE0528466536B11D23C882A7A529CB.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.37.56:954][489]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.37.56:954][489]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.37.56:954][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
+[2022.05.05-03.37.59:419][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.05.05-03.37.59:549][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/dom_61" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom_61.uasset" SILENT=true
+[2022.05.05-03.37.59:561][633]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/dom_615F6201CB46C7A89245CF868E47AF2B4F.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom_61.uasset'
+[2022.05.05-03.38.00:827][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/demo_91" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo_91.uasset" SILENT=true
+[2022.05.05-03.38.00:844][633]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/demo_911A45F3A0484322040A9C54BF09D4FBC7.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo_91.uasset'
+[2022.05.05-03.38.02:145][633]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.38.02:145][633]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/demo_91.demo_91
+[2022.05.05-03.38.02:145][633]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/dom_61.dom_61
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:498][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.05-03.38.10:924][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset" SILENT=true
+[2022.05.05-03.38.10:980][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT17FFABBD345E186020E1CF49B81FDB0F1.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1.uasset'
+[2022.05.05-03.38.10:982][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-03.38.11:004][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.05-03.38.11:015][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1EB3E8C1A40C8538A377ED6B5D0C82759.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1.umap'
+[2022.05.05-03.38.11:019][114]LogFileHelpers: Saving map 'scene_1' took 0.037
+[2022.05.05-03.38.11:019][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_1_BuiltData" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset" SILENT=true
+[2022.05.05-03.38.11:040][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_1_BuiltData6E66C0E745F2A26E7B973D91993CF8BF.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_1_BuiltData.uasset'
+[2022.05.05-03.38.11:042][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/28" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/28.uasset" SILENT=true
+[2022.05.05-03.38.11:092][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/28118FD163495755947F3160862235F245.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/28.uasset'
+[2022.05.05-03.38.11:096][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Akai_Dream" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Akai_Dream.uasset" SILENT=true
+[2022.05.05-03.38.11:340][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Akai_Dream60C944A342B091A78339A38FA28FF29B.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Akai_Dream.uasset'
+[2022.05.05-03.38.11:349][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/demo_91" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo_91.uasset" SILENT=true
+[2022.05.05-03.38.11:365][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/demo_919E01224746279B6EEFEE75A133E3935F.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/demo_91.uasset'
+[2022.05.05-03.38.11:368][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/dom_61" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom_61.uasset" SILENT=true
+[2022.05.05-03.38.11:381][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/dom_6184BCEC784E058C37A5630A866E9A5299.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/dom_61.uasset'
+[2022.05.05-03.38.11:384][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/low_drone" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/low_drone.uasset" SILENT=true
+[2022.05.05-03.38.11:386][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/low_drone6EAD1C2246DC805CB41964BB4D9A863B.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/low_drone.uasset'
+[2022.05.05-03.38.11:387][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/NewSoundCue" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/NewSoundCue.uasset" SILENT=true
+[2022.05.05-03.38.11:387][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/NewSoundCue228DF44E4174B52201CD56AAFCF3C441.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/NewSoundCue.uasset'
+[2022.05.05-03.38.11:388][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Noise_Syndrome" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Noise_Syndrome.uasset" SILENT=true
+[2022.05.05-03.38.11:778][114]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Noise_SyndromeF576A47543EF34828FF49F999452DD8E.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Sounds/Music/Noise_Syndrome.uasset'
+[2022.05.05-03.38.57:723][114]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.05-03.39.10:572][114]LogSourceControl: commit successful: [master 96a7f58] Working on the first scene
+[2022.05.05-03.39.10:714][114]SourceControl: [master 96a7f58] Working on the first scene
+[2022.05.05-03.39.10:714][114]SourceControl:  10 files changed, 0 insertions(+), 0 deletions(-)
+[2022.05.05-03.39.10:714][114]SourceControl:  rewrite Content/Core/Game_Settings/ACT1.uasset (85%)
+[2022.05.05-03.39.10:714][114]SourceControl:  rewrite Content/Sounds/Music/NewSoundCue.uasset (99%)
+[2022.05.05-03.39.10:714][114]SourceControl:  create mode 100644 Content/Sounds/Music/demo_91.uasset
+[2022.05.05-03.39.10:714][114]SourceControl:  create mode 100644 Content/Sounds/Music/dom_61.uasset
+[2022.05.05-03.39.10:714][114]SourceControl:  create mode 100644 Content/Sounds/Music/low_drone.uasset
+[2022.05.05-03.39.10:725][114]SourceControl: Commited [master 96a7f58] Working on the first scene.
+[2022.05.05-03.39.10:768][115]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1.ACT1
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/28.28
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/demo_91.demo_91
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating ObjectRedirector /Game/Sounds/Music/NewSoundCue.NewSoundCue
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Music/low_drone.low_drone
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/Noise_Syndrome.Noise_Syndrome
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/Akai_Dream.Akai_Dream
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating SoundWave /Game/Sounds/Music/dom_61.dom_61
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating World /Game/Scenes/scene_1.scene_1
+[2022.05.05-03.39.10:768][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Scenes/scene_1_BuiltData.scene_1_BuiltData
