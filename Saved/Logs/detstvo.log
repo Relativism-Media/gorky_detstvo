@@ -945,3 +945,1109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.11-20.18.55:701][299]LogSlate: Window 'Project Settings' being destroyed
 [2022.05.11-20.19.39:812][891]LogSlate: Window 'Editor Preferences' being destroyed
 [2022.05.11-20.19.39:815][891]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.05.11-20.25.19:301][ 98]LogRenderer: Reallocating scene render targets to support 1064x592 Format 10 NumSamples 1 (Frame:10581).
+[2022.05.11-20.25.34:213][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.26.25:126][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.26.25:192][613]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_32BAE7FC24AE7D6AF27C23DAB5E4F4D93.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.26.25:208][613]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.26.25:208][613]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.27.37:361][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.27.37:430][472]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_3A61600304692E72D86476499F6D43EA4.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.27.37:450][472]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.27.37:450][472]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.27.38:092][505]BlueprintLog: New page: Compile ACT1_3
+[2022.05.11-20.27.38:139][505]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_3.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-20.27.38:140][505]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_3.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-20.27.38:282][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.05.11-20.27.39:801][569]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2022.05.11-20.27.58:575][552]BlueprintLog: New page: Compile ACT1_3
+[2022.05.11-20.27.58:670][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.05.11-20.29.24:458][436]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.29.24:458][436]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.32.25:313][ 92]BlueprintLog: New page: Compile ACT1_3
+[2022.05.11-20.32.25:444][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.11-20.32.48:932][480]BlueprintLog: New page: Compile ACT1_3
+[2022.05.11-20.32.49:030][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.11-20.32.49:828][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.32.49:901][505]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_36483FD3443750757E41273BB56FA366A.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.32.49:915][505]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.32.49:915][505]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.32.51:786][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.05.11-20.34.50:189][261]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/Novell_Macroses_Library.Novell_Macroses_Library
+[2022.05.11-20.34.53:363][431]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-20.34.53:363][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-20.36.13:137][217]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.36.13:137][217]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.36.20:861][580]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.36.20:861][580]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.37.25:567][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.37.25:646][627]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_355C229324242B9B5E4EA9E95FB6482B7.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.37.25:659][627]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.37.25:659][627]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.37.27:356][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.11-20.42.02:750][364]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.02:750][364]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.10:188][593]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.10:188][593]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.13:072][728]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.13:072][728]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.15:458][840]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.15:458][840]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.16:787][907]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.42.16:787][907]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.43.18:371][808]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.43.18:372][808]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.43.21:406][937]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.43.21:406][937]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-20.43.46:224][356]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.05.11-20.43.46:229][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.036
+[2022.05.11-20.43.46:229][356]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Game_Settings/ACT1_3] ([2] browsable assets)...
+[2022.05.11-20.43.46:229][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Game_Settings/ACT1_3]
+[2022.05.11-20.43.46:309][356]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_3_Auto1CA759FA444F2DB12CF0094A2BEB9EAA0.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Autosaves/Game/Core/Game_Settings/ACT1_3_Auto1.uasset'
+[2022.05.11-20.43.46:310][356]LogFileHelpers: Auto-saving content packages took 0.081
+[2022.05.11-20.47.58:747][219]BlueprintLog: New page: Compile ACT1_3
+[2022.05.11-20.47.58:878][219]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2022.05.11-20.47.59:376][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.47.59:465][227]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_387DBD4294DAFBBBF6D3BC7949CA6607C.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.47.59:481][227]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.47.59:481][227]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.50.53:184][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.50.53:278][964]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_33F5F6A3546583D93FBBDB592310E38A8.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.50.53:294][964]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.50.53:294][964]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.51.08:385][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.51.08:465][674]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_3CD531E3C46ED7F5C4E928FB71AA7C823.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.51.08:483][674]AssetCheck: New page: Asset Save: ACT1_3
+[2022.05.11-20.51.08:483][674]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.51.08:701][684]BlueprintLog: New page: Compile ACT1_3
+[2022.05.11-20.51.08:833][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.05.11-20.51.14:418][933]LogSlate: Window 'ACT1_3' being destroyed
+[2022.05.11-20.51.14:435][933]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-20.51.14:435][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-20.51.17:811][118]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.51.22:442][118]LogSlate: Window 'Save Level As' being destroyed
+[2022.05.11-20.51.22:504][122]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.51.27:834][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.11-20.51.28:024][437]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/scene_3.scene_3
+[2022.05.11-20.51.28:024][437]Cmd: MAP LOAD FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.11-20.51.28:024][437]LightingResults: New page: Lighting Build
+[2022.05.11-20.51.28:027][437]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 6 classes and 0 folders.
+[2022.05.11-20.51.28:029][437]LoadErrors: New page: Loading map: scene_3.umap
+[2022.05.11-20.51.28:051][437]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-20.51.28:053][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-20.51.28:053][437]MapCheck: New page: Map Check
+[2022.05.11-20.51.28:053][437]LightingResults: New page: Lighting Build
+[2022.05.11-20.51.28:068][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.11-20.51.28:074][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.05.11-20.51.28:076][437]LogAudio: Display: Audio Device (ID: 1) registered with world 'scene_3'.
+[2022.05.11-20.51.28:101][437]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-20.51.28:101][437]LogAIModule: Creating AISystem for world scene_3
+[2022.05.11-20.51.28:122][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.05.11-20.51.28:125][437]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-20.51.28:126][437]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2022.05.11-20.51.28:126][437]LogFileHelpers: Loading map 'scene_3' took 0.102
+[2022.05.11-20.51.34:694][729]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2022.05.11-20.51.46:925][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.05.11-20.51.47:210][268]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/scene_2.scene_2
+[2022.05.11-20.51.47:210][268]Cmd: MAP LOAD FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.11-20.51.47:210][268]LightingResults: New page: Lighting Build
+[2022.05.11-20.51.47:210][268]LoadErrors: New page: Loading map: scene_2.umap
+[2022.05.11-20.51.47:212][268]LogWorld: UWorld::CleanupWorld for scene_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-20.51.47:212][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-20.51.47:212][268]MapCheck: New page: Map Check
+[2022.05.11-20.51.47:212][268]LightingResults: New page: Lighting Build
+[2022.05.11-20.51.47:229][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.11-20.51.47:233][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.05.11-20.51.47:234][268]LogAudio: Display: Audio Device (ID: 1) registered with world 'scene_2'.
+[2022.05.11-20.51.47:264][268]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-20.51.47:264][268]LogAIModule: Creating AISystem for world scene_2
+[2022.05.11-20.51.47:284][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.11-20.51.47:288][268]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-20.51.47:288][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2022.05.11-20.51.47:288][268]LogFileHelpers: Loading map 'scene_2' took 0.078
+[2022.05.11-20.51.50:211][395]Cmd: EDIT COPY
+[2022.05.11-20.51.51:440][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.11-20.51.51:476][446]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/scene_3.scene_3
+[2022.05.11-20.51.51:476][446]Cmd: MAP LOAD FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.11-20.51.51:476][446]LightingResults: New page: Lighting Build
+[2022.05.11-20.51.51:477][446]LoadErrors: New page: Loading map: scene_3.umap
+[2022.05.11-20.51.51:478][446]LogWorld: UWorld::CleanupWorld for scene_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-20.51.51:478][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-20.51.51:479][446]MapCheck: New page: Map Check
+[2022.05.11-20.51.51:479][446]LightingResults: New page: Lighting Build
+[2022.05.11-20.51.51:496][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.11-20.51.51:499][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.05.11-20.51.51:500][446]LogAudio: Display: Audio Device (ID: 1) registered with world 'scene_3'.
+[2022.05.11-20.51.51:523][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-20.51.51:523][446]LogAIModule: Creating AISystem for world scene_3
+[2022.05.11-20.51.51:544][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.11-20.51.51:548][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-20.51.51:548][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,146ms to complete.
+[2022.05.11-20.51.51:549][446]LogFileHelpers: Loading map 'scene_3' took 0.072
+[2022.05.11-20.51.52:674][498]Cmd: EDIT PASTE
+[2022.05.11-20.51.55:801][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.11-20.51.55:823][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.11-20.51.55:835][630]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_3EED5F08549F228F41581E1A703ED9AF2.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap'
+[2022.05.11-20.51.55:857][630]AssetCheck: New page: Asset Save: scene_3
+[2022.05.11-20.51.55:857][630]LogContentValidation: Display: Validating World /Game/Scenes/scene_3.scene_3
+[2022.05.11-20.51.58:956][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.05.11-20.52.00:748][874]LogTemp: Repeating last play command: Standalone Game
+[2022.05.11-20.52.00:779][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.05.11-20.53.20:881][165]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.11-20.54.28:403][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.05.11-20.54.32:658][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:658][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.32:659][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-20.54.33:017][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset" SILENT=true
+[2022.05.11-20.54.33:102][615]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_3A668131C411E5ADC93B408BD5102749F.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_3.uasset'
+[2022.05.11-20.54.33:103][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.11-20.54.33:128][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.05.11-20.54.33:139][615]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_3D824C6E7497280DE8D832E8985BF6371.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap'
+[2022.05.11-20.54.33:145][615]LogFileHelpers: Saving map 'scene_3' took 0.042
+[2022.05.11-20.54.47:774][615]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.11-20.54.48:055][615]LogSourceControl: commit successful: [master bad7f65] Completed script for Act 3
+[2022.05.11-20.54.48:109][615]SourceControl: [master bad7f65] Completed script for Act 3
+[2022.05.11-20.54.48:109][615]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2022.05.11-20.54.48:109][615]SourceControl:  rewrite Content/Core/Game_Settings/ACT1_3.uasset (85%)
+[2022.05.11-20.54.48:113][615]SourceControl: Commited [master bad7f65] Completed script for Act 3.
+[2022.05.11-20.54.48:132][616]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.11-20.54.48:132][616]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-20.54.48:132][616]LogContentValidation: Display: Validating World /Game/Scenes/scene_3.scene_3
+[2022.05.11-20.55.43:959][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-20.57.28:153][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-20.57.28:164][819]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_43FBE9D254F67F6B0244305B400AEA8A4.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-20.57.28:179][819]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-20.57.28:179][819]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-20.57.28:459][828]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-20.57.28:515][828]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2022.05.11-20.59.13:009][454]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.11-21.01.19:167][435]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.01.19:167][435]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.04.30:259][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.05.11-21.04.30:260][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/scene_3' took 0.024
+[2022.05.11-21.04.30:261][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Game_Settings/ACT1_4] ([2] browsable assets)...
+[2022.05.11-21.04.30:261][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Game_Settings/ACT1_4]
+[2022.05.11-21.04.30:272][705]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4_Auto261356A6C4EE1E707CA2BECB803F2EFA2.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Autosaves/Game/Core/Game_Settings/ACT1_4_Auto2.uasset'
+[2022.05.11-21.04.30:272][705]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.05.11-21.46.19:256][471]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.46.19:256][471]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.47.21:454][393]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.47.21:454][393]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.47.58:062][176]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.47.58:062][176]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.49.27:691][111]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2022.05.11-21.49.27:729][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.05.11-21.49.27:732][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/scene_3' took 0.032
+[2022.05.11-21.49.27:732][111]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Game_Settings/ACT1_4] ([2] browsable assets)...
+[2022.05.11-21.49.27:732][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Game_Settings/ACT1_4]
+[2022.05.11-21.49.27:751][111]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4_Auto3B20DA73A4E2C1EAA41767BA4E494E167.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Autosaves/Game/Core/Game_Settings/ACT1_4_Auto3.uasset'
+[2022.05.11-21.49.27:752][111]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.05.11-21.49.36:394][454]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.49.36:394][454]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.50.08:905][891]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-21.50.08:927][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.50.08:927][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:928][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:928][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:928][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:928][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.50.08:929][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.50.08:932][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.08:932][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.08:932][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.08:932][891]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.08:990][891]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2022.05.11-21.50.09:458][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-21.50.09:479][898]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_471D925C44B220569055949A6AD45DAA1.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-21.50.09:493][898]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-21.50.09:493][898]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-21.50.10:457][929]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:476][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:477][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:477][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:477][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:477][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.50.10:477][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.50.10:477][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.50.10:479][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.10:479][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.10:480][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.10:480][929]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.50.10:521][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.11-21.51.39:734][880]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.51.39:735][880]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.51.48:992][374]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.51.48:992][374]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.52.06:700][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-21.52.06:722][ 68]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_42CB0D75845B28AF559E486B314765B22.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-21.52.06:739][ 68]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-21.52.06:739][ 68]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-21.52.06:989][ 77]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:010][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:011][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:011][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:011][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:011][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.52.07:012][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.52.07:012][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.52.07:012][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.52.07:014][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.52.07:014][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.52.07:015][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.52.07:015][ 77]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.52.07:059][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.05.11-21.53.06:376][819]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-21.53.06:402][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:403][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.53.06:404][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.53.06:405][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.53.06:407][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.53.06:407][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.53.06:407][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.53.06:407][819]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.53.06:453][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.05.11-21.53.06:934][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-21.53.06:959][829]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_41EC201A3434400A91E12D4B60F60854E.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-21.53.06:972][829]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-21.53.06:972][829]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-21.55.15:195][724]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-21.55.15:226][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.55.15:226][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:226][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:226][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:226][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:226][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.55.15:227][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.55.15:228][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.55.15:228][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.55.15:228][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.55.15:228][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.55.15:228][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.55.15:231][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.55.15:231][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.55.15:231][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.55.15:232][724]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.55.15:287][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.05.11-21.55.15:728][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-21.55.15:754][734]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4B59DA3CA4332603881B3BDB49DBD8A98.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-21.55.15:770][734]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-21.55.15:770][734]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-21.56.40:364][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/Novell_Macroses_Library.Novell_Macroses_Library
+[2022.05.11-21.56.42:358][480]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-21.56.42:358][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-21.56.45:984][613]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.56.45:984][613]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.56.48:519][702]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.56.48:519][702]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-21.58.44:083][442]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-21.58.44:114][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:114][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.58.44:115][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.58.44:116][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.58.44:117][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.58.44:117][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-21.58.44:120][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.58.44:120][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.58.44:121][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.58.44:121][442]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-21.58.44:172][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.11-21.58.44:771][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-21.58.44:799][458]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4A1D75C9146154FA8CD62C2B3048239E8.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-21.58.44:812][458]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-21.58.44:812][458]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-21.59.03:465][857]LogEditorTransaction: Undo Edit 0
+[2022.05.11-22.00.22:280][789]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.00.22:280][789]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.01.04:478][442]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.01.04:478][442]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.01.57:452][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.01.57:481][401]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4B5D39E4143CFC3DC4E56ECADEF7B1EBA.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.01.57:497][401]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-22.01.57:497][401]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.01.58:967][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.11-22.03.07:736][ 92]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-22.03.07:768][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:768][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:768][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:769][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.03.07:770][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.03.07:771][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.03.07:771][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.03.07:771][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.03.07:774][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.03.07:774][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.03.07:774][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.03.07:774][ 92]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.03.07:818][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.05.11-22.07.39:252][768]LogEditorTransaction: Undo Move Node
+[2022.05.11-22.09.08:604][658]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-22.09.08:645][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:645][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:645][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:646][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:646][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:646][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:646][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:646][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:646][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:647][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Message Text ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Black Screen In Out ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:648][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:649][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:649][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:649][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:649][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:649][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] This blueprint (self) is not a Game_Base_UI_C, therefore ' Target generated from expanding Print Messages In Box ' must have a connection.
+[2022.05.11-22.09.08:653][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.09.08:654][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.09.08:654][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.09.08:654][658]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.09.08:703][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.05.11-22.12.01:731][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.05.11-22.12.01:733][187]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/scene_3' took 0.032
+[2022.05.11-22.12.01:733][187]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Game_Settings/ACT1_4] ([2] browsable assets)...
+[2022.05.11-22.12.01:733][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Game_Settings/ACT1_4]
+[2022.05.11-22.12.01:775][187]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4_Auto41633D50C497AEDCC853AE48DF674C121.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/Autosaves/Game/Core/Game_Settings/ACT1_4_Auto4.uasset'
+[2022.05.11-22.12.01:776][187]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.05.11-22.12.48:565][252]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-22.12.48:618][252]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.12.48:618][252]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.12.48:618][252]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.12.48:618][252]LogBlueprint: Error: [AssetLog] C:\Users\egora\Documents\GitHub\gorky_detstvo\Content\Core\Game_Settings\ACT1_4.uasset: [Compiler] The current value of the ' Spawn Transform generated from expanding SpawnActor ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.05.11-22.12.48:662][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.05.11-22.12.49:334][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.12.49:372][272]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4E828B6C74394EF8C5CC46AA01D87B782.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.12.49:386][272]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-22.12.49:386][272]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.13.12:312][315]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.13.12:312][315]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.14.21:332][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.14.21:372][ 29]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_420B1E15C4E5B0E28501941A272267FBA.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.14.21:387][ 29]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-22.14.21:387][ 29]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.14.22:153][ 58]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-22.14.22:268][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.05.11-22.14.23:383][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.14.23:423][ 98]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4867570464B46BD94602522B7E091F05F.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.14.23:439][ 98]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-22.14.23:439][ 98]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.14.26:190][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.05.11-22.14.28:513][308]LogSlate: Window 'ACT1_4' being destroyed
+[2022.05.11-22.14.28:524][308]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.14.28:524][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.14.32:517][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_3" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.11-22.14.32:539][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.11-22.14.32:549][474]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_3B981293A41DB5EB4D5F14298828902F0.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap'
+[2022.05.11-22.14.32:572][474]AssetCheck: New page: Asset Save: scene_3
+[2022.05.11-22.14.32:572][474]LogContentValidation: Display: Validating World /Game/Scenes/scene_3.scene_3
+[2022.05.11-22.14.34:571][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.11-22.14.41:050][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.14.47:483][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.14.47:525][188]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_40A3AE4E14C70E77198F5F185CFCACA38.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.14.47:537][188]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-22.14.47:537][188]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.14.49:044][248]LogSlate: Window 'ACT1_4' being destroyed
+[2022.05.11-22.14.49:054][248]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.14.49:054][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.14.57:415][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.11-22.14.57:528][664]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/scene_4.scene_4
+[2022.05.11-22.14.57:528][664]Cmd: MAP LOAD FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.11-22.14.57:528][664]LightingResults: New page: Lighting Build
+[2022.05.11-22.14.57:528][664]LoadErrors: New page: Loading map: scene_4.umap
+[2022.05.11-22.14.57:529][664]LogWorld: UWorld::CleanupWorld for scene_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.14.57:529][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.14.57:529][664]MapCheck: New page: Map Check
+[2022.05.11-22.14.57:529][664]LightingResults: New page: Lighting Build
+[2022.05.11-22.14.57:549][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.11-22.14.57:552][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.11-22.14.57:553][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'scene_4'.
+[2022.05.11-22.14.57:576][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-22.14.57:576][664]LogAIModule: Creating AISystem for world scene_4
+[2022.05.11-22.14.57:599][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.05.11-22.14.57:603][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-22.14.57:603][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2022.05.11-22.14.57:603][664]LogFileHelpers: Loading map 'scene_4' took 0.076
+[2022.05.11-22.15.00:826][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.11-22.15.00:855][831]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/scene_3.scene_3
+[2022.05.11-22.15.00:855][831]Cmd: MAP LOAD FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.11-22.15.00:855][831]LightingResults: New page: Lighting Build
+[2022.05.11-22.15.00:855][831]LoadErrors: New page: Loading map: scene_3.umap
+[2022.05.11-22.15.00:856][831]LogWorld: UWorld::CleanupWorld for scene_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.15.00:856][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.15.00:856][831]MapCheck: New page: Map Check
+[2022.05.11-22.15.00:856][831]LightingResults: New page: Lighting Build
+[2022.05.11-22.15.00:877][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.11-22.15.00:880][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.05.11-22.15.00:881][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'scene_3'.
+[2022.05.11-22.15.00:905][831]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-22.15.00:905][831]LogAIModule: Creating AISystem for world scene_3
+[2022.05.11-22.15.00:928][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.11-22.15.00:933][831]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-22.15.00:933][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2022.05.11-22.15.00:933][831]LogFileHelpers: Loading map 'scene_3' took 0.077
+[2022.05.11-22.15.02:572][896]Cmd: EDIT COPY
+[2022.05.11-22.15.03:667][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.11-22.15.03:707][947]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/scene_4.scene_4
+[2022.05.11-22.15.03:707][947]Cmd: MAP LOAD FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.11-22.15.03:708][947]LightingResults: New page: Lighting Build
+[2022.05.11-22.15.03:708][947]LoadErrors: New page: Loading map: scene_4.umap
+[2022.05.11-22.15.03:733][947]LogWorld: UWorld::CleanupWorld for scene_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.15.03:733][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.15.03:733][947]MapCheck: New page: Map Check
+[2022.05.11-22.15.03:733][947]LightingResults: New page: Lighting Build
+[2022.05.11-22.15.03:751][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.11-22.15.03:755][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.11-22.15.03:755][947]LogAudio: Display: Audio Device (ID: 1) registered with world 'scene_4'.
+[2022.05.11-22.15.03:779][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.11-22.15.03:779][947]LogAIModule: Creating AISystem for world scene_4
+[2022.05.11-22.15.03:803][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.11-22.15.03:807][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.11-22.15.03:807][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2022.05.11-22.15.03:807][947]LogFileHelpers: Loading map 'scene_4' took 0.100
+[2022.05.11-22.15.04:550][983]Cmd: EDIT PASTE
+[2022.05.11-22.15.08:020][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.11-22.15.08:096][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.11-22.15.08:110][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.11-22.15.08:118][168]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_4A71554DA485090087379AF8061415E23.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_4.umap'
+[2022.05.11-22.15.08:123][168]LogFileHelpers: Saving map 'scene_4' took 0.027
+[2022.05.11-22.15.08:135][168]AssetCheck: New page: Asset Save: scene_4
+[2022.05.11-22.15.08:135][168]LogContentValidation: Display: Validating World /Game/Scenes/scene_4.scene_4
+[2022.05.11-22.15.12:353][404]LogTemp: Repeating last play command: Standalone Game
+[2022.05.11-22.15.12:381][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.11-22.15.36:050][926]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/ACT1_3.ACT1_3
+[2022.05.11-22.15.46:719][388]LogSlate: Window 'ACT1_3' being destroyed
+[2022.05.11-22.15.46:731][388]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.15.46:731][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.15.47:952][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.16.22:910][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.16.22:950][177]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_49028A2F54D6AA8552677A583306C2EB2.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.16.22:964][177]AssetCheck: New page: Asset Save: ACT1_4
+[2022.05.11-22.16.22:965][177]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.16.23:330][194]BlueprintLog: New page: Compile ACT1_4
+[2022.05.11-22.16.23:426][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.11-22.16.27:728][348]LogSlate: Window 'ACT1_4' being destroyed
+[2022.05.11-22.16.27:751][348]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.16.27:751][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.11-22.16.30:031][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.05.11-22.16.30:961][521]LogTemp: Repeating last play command: Standalone Game
+[2022.05.11-22.16.30:985][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.05.11-22.18.06:794][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:512][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/egora/Documents/GitHub/gorky_detstvo'
+[2022.05.11-22.18.10:782][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Game_Settings/ACT1_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset" SILENT=true
+[2022.05.11-22.18.10:812][ 99]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/ACT1_4637B402D49A613B4E92E00A8889E0022.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Core/Game_Settings/ACT1_4.uasset'
+[2022.05.11-22.18.10:814][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/scene_4" FILE="../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.11-22.18.10:831][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.11-22.18.10:840][ 99]LogSavePackage: Moving '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Saved/scene_4EFB0B29143F25383652C54AD2C6C767E.tmp' to '../../../../../../Users/egora/Documents/GitHub/gorky_detstvo/Content/Scenes/scene_4.umap'
+[2022.05.11-22.18.10:844][ 99]LogFileHelpers: Saving map 'scene_4' took 0.031
+[2022.05.11-22.18.34:592][ 99]LogSlate: Window 'Submit Files' being destroyed
+[2022.05.11-22.18.34:895][ 99]LogSourceControl: commit successful: [master 63bc450] Completed script for act 4
+[2022.05.11-22.18.34:961][ 99]SourceControl: [master 63bc450] Completed script for act 4
+[2022.05.11-22.18.34:961][ 99]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2022.05.11-22.18.34:961][ 99]SourceControl:  rewrite Content/Core/Game_Settings/ACT1_4.uasset (94%)
+[2022.05.11-22.18.34:966][ 99]SourceControl: Commited [master 63bc450] Completed script for act 4.
+[2022.05.11-22.18.34:995][100]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.11-22.18.34:995][100]LogContentValidation: Display: Validating World /Game/Scenes/scene_4.scene_4
+[2022.05.11-22.18.34:995][100]LogContentValidation: Display: Validating Blueprint /Game/Core/Game_Settings/ACT1_4.ACT1_4
+[2022.05.11-22.19.55:435][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.11-22.19.55:445][641]LogSlate: Window 'detstvo - Unreal Editor' being destroyed
+[2022.05.11-22.19.55:547][642]Cmd: QUIT_EDITOR
+[2022.05.11-22.19.55:547][642]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.11-22.19.55:551][642]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.11-22.19.55:553][642]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.11-22.19.55:553][642]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.11-22.19.55:553][642]LogAudio: Display: Audio Device unregistered from world 'scene_4'.
+[2022.05.11-22.19.55:553][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.11-22.19.55:554][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.11-22.19.55:576][642]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.11-22.19.55:577][642]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.11-22.19.55:585][642]LogExit: Preparing to exit.
+[2022.05.11-22.19.55:724][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.11-22.19.55:850][642]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.19.55:906][642]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.11-22.19.55:919][642]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.11-22.19.55:919][642]LogExit: Editor shut down
+[2022.05.11-22.19.55:921][642]LogExit: Transaction tracking system shut down
+[2022.05.11-22.19.56:312][642]LogExit: Object subsystem successfully closed.
+[2022.05.11-22.19.56:326][642]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.11-22.19.56:326][642]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.11-22.19.56:326][642]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.11-22.19.56:326][642]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.11-22.19.56:326][642]LogShaderCompilers: Display: ================================================
+[2022.05.11-22.19.56:340][642]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.11-22.19.56:375][642]LogModuleManager: Shutting down and abandoning module StatsViewer (874)
+[2022.05.11-22.19.56:375][642]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (872)
+[2022.05.11-22.19.56:375][642]LogModuleManager: Shutting down and abandoning module BlueprintGraph (870)
+[2022.05.11-22.19.56:375][642]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (868)
+[2022.05.11-22.19.56:375][642]LogModuleManager: Shutting down and abandoning module SceneOutliner (866)
+[2022.05.11-22.19.56:375][642]LogModuleManager: Shutting down and abandoning module AddContentDialog (864)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module WidgetCarousel (863)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module EditorWidgets (860)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module TextureAlignMode (848)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module BspMode (846)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module GeometryMode (844)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module OpenXRInput (834)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module GooglePADEditor (832)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (830)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (828)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (824)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (822)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (820)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (818)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (816)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (814)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module WebMMedia (812)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (810)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (808)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module SequenceRecorder (807)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (798)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (796)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.05.11-22.19.56:377][642]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (788)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (786)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (784)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module CharacterAI (782)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.11-22.19.56:378][642]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.11-22.19.57:907][642]MemoryProfiler: Shutdown
+[2022.05.11-22.19.57:907][642]NetworkingProfiler: Shutdown
+[2022.05.11-22.19.57:907][642]LoadingProfiler: Shutdown
+[2022.05.11-22.19.57:907][642]TimingProfiler: Shutdown
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.11-22.19.57:907][642]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.11-22.19.57:908][642]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.11-22.19.57:941][642]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.11-22.19.57:949][642]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.11-22.19.57:949][642]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.11-22.19.57:949][642]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.11-22.19.57:949][642]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.11-22.19.57:950][642]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.11-22.19.57:950][642]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.11-22.19.57:950][642]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.11-22.19.57:951][642]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.11-22.19.57:951][642]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.11-22.19.57:951][642]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.11-22.19.57:951][642]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.11-22.19.57:952][642]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module OculusEditor (594)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module OculusInput (592)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (590)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module PluginBrowser (588)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (586)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (584)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module CurveEditorTools (582)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (580)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module CryptoKeys (578)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module TakeSequencer (576)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module TakeMovieScene (574)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module SynthesisEditor (572)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module Synthesis (570)
+[2022.05.11-22.19.57:995][642]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (568)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (566)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module OpenXREditor (564)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (562)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GooglePAD (560)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ScreenshotTools (558)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module EditableMesh (556)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (554)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module CableComponent (552)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (550)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AssetTags (548)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AudioCapture (546)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (545)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (542)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AppleImageUtils (540)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AndroidPermission (538)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (536)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (534)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module TemplateSequence (532)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MediaCompositing (530)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ImgMedia (528)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (526)
+[2022.05.11-22.19.57:996][642]LogOpenImageDenoise: OIDN shutting down
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (524)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MotoSynth (522)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (500)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (498)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (496)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (494)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (492)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (490)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (488)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module FractureEditor (486)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ChaosNiagara (484)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (483)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (480)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module BackChannel (478)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (476)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AutomationUtils (474)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (464)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (460)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (436)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (434)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.05.11-22.19.57:996][642]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.05.11-22.19.57:997][642]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.05.11-22.19.57:997][642]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (410)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (408)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module FacialAnimation (406)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module DataValidation (404)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (402)
+[2022.05.11-22.19.58:407][642]LogModuleManager: Shutting down and abandoning module LevelEditor (401)
+[2022.05.11-22.19.58:409][642]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (400)
+[2022.05.11-22.19.58:409][642]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (398)
+[2022.05.11-22.19.58:409][642]LogModuleManager: Shutting down and abandoning module MainFrame (396)
+[2022.05.11-22.19.58:409][642]LogModuleManager: Shutting down and abandoning module HotReload (395)
+[2022.05.11-22.19.58:409][642]LogModuleManager: Shutting down and abandoning module ToolMenus (391)
+[2022.05.11-22.19.58:409][642]LogModuleManager: Shutting down and abandoning module TreeMap (389)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module SignificanceManager (384)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (382)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (380)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (378)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module ActorSequence (368)
+[2022.05.11-22.19.58:410][642]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2022.05.11-22.19.58:511][642]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (362)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (358)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (356)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (354)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (352)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (350)
+[2022.05.11-22.19.58:612][642]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (348)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (346)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (344)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (342)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapController (340)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (338)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module MagicLeapAR (336)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (334)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module Niagara (332)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module SignalProcessing (331)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module NiagaraEditor (329)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module ContentBrowser (328)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module ContentBrowserData (327)
+[2022.05.11-22.19.58:612][642]LogModuleManager: Shutting down and abandoning module NiagaraCore (322)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module GameplayCameras (320)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (316)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module AnimationSharing (314)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.11-22.19.58:613][642]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.11-22.19.58:619][642]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.11-22.19.58:620][642]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.11-22.19.58:621][642]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.11-22.19.58:621][642]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.11-22.19.58:622][642]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.11-22.19.58:626][642]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.11-22.19.58:626][642]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.11-22.19.58:627][642]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.11-22.19.58:627][642]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.11-22.19.58:627][642]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.11-22.19.58:634][642]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.11-22.19.58:638][642]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.11-22.19.58:651][642]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.11-22.19.58:652][642]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.05.11-22.19.58:652][642]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.05.11-22.19.58:652][642]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.05.11-22.19.58:654][642]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.05.11-22.19.58:654][642]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.05.11-22.19.58:683][642]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.05.11-22.19.58:683][642]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.11-22.19.58:683][642]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB67B7CC7-458F-78D5-9188-4C9C32D57AFB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=49e2396040f297c067d08ca4853194d8%7Cc66d9aeaa2b4492d87ab24a164732ee9%7Cf441d67f-eb84-486e-8206-7cee349254e8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.11-22.19.58:683][642]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.11-22.19.58:707][642]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.05.11-22.19.58:709][642]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.05.11-22.19.58:709][642]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.05.11-22.19.58:711][642]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.11-22.19.58:712][642]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.11-22.19.58:714][642]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.11-22.19.58:714][642]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.11-22.19.58:761][642]LogD3D11RHI: Shutdown
+[2022.05.11-22.19.58:761][642]LogD3D11RHI: CleanupD3DDevice
+[2022.05.11-22.19.58:771][642]LogD3D11RHI: Intel Extensions Framework unloaded
+[2022.05.11-22.19.58:779][642]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2022.05.11-22.19.58:779][642]LogExit: Exiting.
+[2022.05.11-22.19.58:792][642]Log file closed, 05/12/22 01:19:58
